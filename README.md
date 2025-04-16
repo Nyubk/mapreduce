@@ -47,3 +47,7 @@ docker cp namenode:/tmp/harry-potter-copy.txt .
 Para validar que se haya copiado correctamente
 
 paso 16: Abrir archivo local para validar que se realizó correctamente.
+
+# Tarea 2
+
+
