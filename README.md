@@ -1,6 +1,7 @@
 # mapreduce
 Repositorio para ejemplos MapReduce
 
+# Tarea 1
 paso 1: Crear repositorio
 
 paso 2: Descargar e instalar docker
